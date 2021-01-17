@@ -1,0 +1,179 @@
+
+html, body{
+    padding: 0;
+    margin: 0;
+}
+.t3logo{
+    height:100px;
+}
+.tlogo{
+weight
+}
+header{
+    display: flex ;
+    flex-direction: row;
+    justify-content:center;
+    background-color: white;
+
+
+
+    
+}
+.navwrap{
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.navcontent{
+    display: flex;
+    flex-direction: row;
+    text-decoration:none;
+    padding: 0px 20% 0px 20%;
+    margin-top: 3%;
+
+}
+.navname{
+    margin-left: 50px;
+    
+
+}
+.somthingright{
+    margin-top: 3%;
+    font-size: 1.5rem;
+}
+li{
+   list-style: none;
+   padding-left: none;
+}
+a{
+    text-decoration: none;
+    color: #777777;
+    font-size: 1.5rem;
+}
+.pictures{
+    display: flex;
+    flex-direction: row;
+}
+/* .mainpic1{
+    flex: 1;
+    max-width: 50%;
+    width: 33%;
+} */
+.sibal{
+    height: 78vh;
+    width: 100%;
+    background-image: url(./img/1_1.jpeg);
+    background-size: cover;
+    background-position: center 25%;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.maintext{
+    color: white;
+    font-size: 2.7rem;
+    line-height: 5rem;
+    font-weight:650 ;
+
+
+}
+.3theme{
+
+}
+.boxes{
+
+    margin-top: 0.3%;
+    width: 100%;
+    height: 30vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    
+
+}
+.box1{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 33%;
+    background-color: #d7d7d775;
+
+}
+.box2{
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+    width: 33%;
+    background-color: #d7d7d775;
+
+}
+.box3{
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+    width: 33%;
+    background-color: #d7d7d775;
+
+
+}
+.blacktext{
+    font-size: 2.5rem;
+font-weight: 900;}
+.graytext{
+font-size: 2rem;
+font-weight: 700;
+color: #777777;
+}
+footer{
+
+    padding: 15px 15px 15px 15px;
+    height: 30vh;
+    background-color: rgba(37,36,37,1.0);
+    display: flex;
+    justify-content: center;
+
+
+}
+.footerwraper{
+    
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.footleft p{
+    
+    margin: 3% 1% 1% 1%;
+    color: gainsboro;
+    font-size: 1.2rem;
+}
+.footright{
+    margin-left: 50vh;
+}
+.whitetext{
+    color: white;
+   
+}
+/* }
+.mainpic2{
+    flex: 1;
+    max-width: 50%;
+    width: 33%;
+    opacity: 0.8;
+
+
+}
+.mainpic3{
+    flex: 1;
+    max-width: 33%;
+    width: 33%;
+    opacity: 0.8;
+
+} */
